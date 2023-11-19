@@ -1,0 +1,2 @@
+packag/manifestÌí¼Ó
+¡°com.unity.assetbundlebrowser¡±: ¡°1.7.0¡±
