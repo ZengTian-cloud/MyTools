@@ -1,0 +1,33 @@
+{
+    "name": "ZGames",
+    "rootNamespace": "",
+    "references": [
+        "GUID:13ba8ce62aa80c74598530029cb2d649",
+        "GUID:07b561ea12ab04c719bd25a203229d2c",
+        "GUID:8fe93e6a2025746b180536a2840b4778",
+        "GUID:cdcddc4a3e7424b2b981b32960bf758a",
+        "GUID:91d7282c21b0e449197c0dee9735e88b",
+        "GUID:44cfc225a48b64e5bbf0e1f38b8792a1",
+        "GUID:2d87adeae572843428cd1597d0ff8f8e",
+        "GUID:a1b3b80d891a4419ba51790e989fb73e",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:d60799ab2a985554ea1a39cd38695018",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:f06555f75b070af458a003d92f9efb00",
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:5c8a2396b0942024a906691f94038ec5",
+        "GUID:817615fd2a736a14a95e3514bd7255c5",
+        "GUID:3a7fb7ff1d6664e9992f787217641bd2",
+        "GUID:ab0eaad07dc8aca4a9485b60b62e7cf7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
